@@ -2,7 +2,7 @@
 <br>
 
 # **HERRAMIENTAS BIOINFORMÁTICAS PARA LAS CIENCIAS BIOLÓGICAS: INTRODUCCIÓN A PYTHON**
-<br>
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 # **Bioinformática 2020**
 
