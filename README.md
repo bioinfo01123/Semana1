@@ -5,7 +5,7 @@
 # **HERRAMIENTAS BIOINFORMÁTICAS PARA LAS CIENCIAS BIOLÓGICAS: INTRODUCCIÓN A PYTHON**
 <br>
 
-# [**Bioinformática 2020**](https://github.com/Bioinformatica2020?tab=repositories)
+# **Bioinformática 2020**
 
 ## Presentación
 Con el fin de ampliar el uso de recursos bioinformáticos para explotar al máximo la información biológica disponible, hemos abierto la siguiente optativa para alumnos de posgrado de la Universidad Autónoma Metropolitana.
@@ -17,6 +17,7 @@ Con el fin de ampliar el uso de recursos bioinformáticos para explotar al máxi
 * Adquiera fundamentos básicos de programación para aplicarlos en la solución de problemas relacionados a su proyecto.
 <br>
 <br>
+
 ## Fecha, horario y lugar
 El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00 - 18:00 en las aulas del Posgrado de la Universidad Autónoma Metropolitana Unidad Iztapalapa.
 ## Responsables
