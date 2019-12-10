@@ -1,11 +1,5 @@
-
-<br>
-
 # **HERRAMIENTAS BIOINFORMÁTICAS PARA LAS CIENCIAS BIOLÓGICAS: INTRODUCCIÓN A PYTHON**
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
 # **Bioinformática 2020**
-
 ## Presentación
 Con el fin de ampliar el uso de recursos bioinformáticos para explotar al máximo la información biológica disponible, hemos abierto la siguiente optativa para alumnos de posgrado de la Universidad Autónoma Metropolitana.
 ## Objetivos
@@ -21,8 +15,6 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
   E-mail: pcr2.1@hotmail.com<br>
 * Dr. **Francisco Fierro Fierro**<br>
   E-mail: degfff@yahoo.com<br>
-<br>
-
 # **Temario**
 ## 1. Bases de Biología Molecular
 ## 2. Qué es la Bioinformática
