@@ -1,6 +1,7 @@
 # **HERRAMIENTAS BIOINFORMÁTICAS PARA LAS CIENCIAS BIOLÓGICAS: INTRODUCCIÓN A PYTHON**
 # **Bioinformática 2020**
 ## Presentación
+<a target="_blank" href="https://try.jupyter.org" class="woo-sc-button  custom" style="background:;border-color:"><span class="woo-">Prueba Jupyter desde el navegador</span></a>
 Con el fin de ampliar el uso de recursos bioinformáticos para explotar al máximo la información biológica disponible, hemos abierto la siguiente optativa para alumnos de posgrado de la Universidad Autónoma Metropolitana.
 ## Objetivos
 ### Lograr que el alumno:
