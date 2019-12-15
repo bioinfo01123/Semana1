@@ -64,7 +64,7 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 ## 8. Sistema de directorios y archivos
 * ### Organización jerárquica
 * ### Crear y borrar
-## 9. Función `re` y Expresiones regulares
+## 9. Función **`re`** y Expresiones regulares
 * ### 
 * ### 
 * ### 
