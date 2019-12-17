@@ -76,7 +76,7 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 # **Python**
 
 ## **6. Instalación de Python**
-* ### Descarga e Instalación de (Anaconda)[https://www.anaconda.com/distribution/]
+* ### Descarga e Instalación de [Anaconda](https://www.anaconda.com/distribution/)
 * ### Descarga de Python version 3.6.7 (https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe)
 * ### Instalación
 
