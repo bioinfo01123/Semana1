@@ -76,8 +76,7 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 # **Python**
 
 ## **6. Instalación de Python**
-* ### Descarga e Instalación de [Anaconda](https://www.anaconda.com/distribution/)
-* ### Python version 3.6.7
+* ### Descarga de Python version 3.6.7 ([Download](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 * ### Instalación
 
 ## **7. Módulos de Python ([Python Package Index: PyPI](https://pypi.org/))**
@@ -138,7 +137,7 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 
 
 
-# **Bioinformática**
+# **Bioinformática y Biopython**
 
 ## **16. Bases de Datos Biológicas**
 * ## Bases de Datos Primarias
@@ -147,6 +146,7 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 * ## Bases de Datos Funcionales
 * ### *Ejercicios*
 ## 
+
 
 ## **17. Análisis de secuencias**
 * ## Alineamientos pareados
