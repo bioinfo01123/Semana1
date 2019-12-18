@@ -84,6 +84,7 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 * ### Qué son los Módulos de Python
 * ### Instalación de Módulos (método PIP)
 * ### Cómo importar módulos
+* ### [Expresiones regulares](https://docs.python.org/3/library/re.html)
 
 ## **8. Jupyter Notebook**
 <img src="https://jupyter-notebook.readthedocs.io/en/stable/_images/new-notebook.gif" width = 80%>
