@@ -76,7 +76,8 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 # **Python**
 
 ## **6. Instalación de Python**
-* ### Descarga de Python version 3.7.5 ([Download](https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe))
+* ### Windows: Descarga de Python version 3.7.5 ([Download](https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe))
+* ### Mac: Descarga de Python version 3.7.5 ([Download](https://www.python.org/ftp/python/3.7.5/python-3.7.5-macosx10.9.pkg))
 * ### Instalación
 
 ## **7. Módulos de Python ([Python Package Index: PyPI](https://pypi.org/))**
