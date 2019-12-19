@@ -26,7 +26,7 @@ El curso se impartirá durante el trimestre 19O, los lunes y miércoles de 15:00
 * Dr. **Francisco Fierro Fierro**<br>
   E-mail: degfff@yahoo.com<br>
 
-# **Temario (En actualiación)**
+# **Temario (`En actualiación`)**
 ## **1. Bases de Biología Molecular**
 
 ## **2. Presentación del Temario**
